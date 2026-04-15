@@ -1,0 +1,5 @@
+Contrato de servicios legales
+Cliente: Inversiones del Norte
+Ciudad: Guatemala
+Monto: Q125000
+Observacion: Documento confidencial para uso interno.

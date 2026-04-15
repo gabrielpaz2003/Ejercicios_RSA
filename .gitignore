@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pem
+.pytest_cache/
+salida/
